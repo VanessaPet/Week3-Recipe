@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Labrada:wght@100&family=Phudu:wght@300&display=swap');
+
+body { 
+    background-color: pink;
+}
+
+.heading {
+    text-align: center
+}
+
+.recipe-heading {
+    color: rgb(197, 22, 22);
+    font-family: 'Phudu', cursive;
+    font-size: 3rem;
+}
+
+.picture {
+    width: 200px;
+    border-radius: 15px;
+    padding-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredients {
+    color: red;
+    border: 2px solid purple;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.ingredients-table {
+    border: 1px solid purple;
+    margin: 0 auto;
+    border-radius: 5%;
+}
+
+.instructions {
+    color: red;
+    border: 2px solid purple;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ul {
+    margin: 0 auto; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.footer {
+    color: rgb(51, 4, 51);
+    font-family: 'Labrada', serif;
+    font-size: 1rem;
+    text-align: center
+} 
